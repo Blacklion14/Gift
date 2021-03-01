@@ -78,6 +78,12 @@ h1{
     }
 }
 
+@media(max-width : 300px){
+   .letter{
+        height: 20%;
+    }
+}
+
 @keyframes animate{
     0%{
         transform: translateY(0%);
